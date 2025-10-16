@@ -1,19 +1,19 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 💫 Hi 👋, I'm Maruf Skeikh
+💻 Aspiring Full Stack Developer | Passionate About Web Technologies & Cloud | Based in Bangladesh 🇧🇩
 
-###
-
-<p align="left">My name is Maruf Sheikh and I'm a Full-Stack Developer.</p>
+Email Me 👉 ✉️ **www.marufsheikh802@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ###
 
 <h2 align="left">About me</h2>
-
 ###
 
 <p align="left">
 ✨ Creating bugs since 2021 😅 <br>
 📚 I'm currently learning & building projects with React.js, Next.js, Node.js, Express.js, MongoDB, Firebase & Tailwind CSS <br>
 🔐 Working with JWT for secure authentication <br>
+📫How to reach me: www.marufsheikh802@gmail.com
+😄Pronouns: Maruf!
 🎯 Goals: Become a full-stack web developer and create modern, helpful web systems that people love to use <br>
 🎲 Fun fact: I debug faster while listening to music 🎧, and sometimes I talk to my code 😎
 </p>
@@ -61,7 +61,11 @@
   </a>
 </p>
 
-
+###
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
