@@ -12,8 +12,8 @@ Email Me 👉 ✉️ **www.marufsheikh802@gmail.com** For Collaboration/Project 
 ✨ Creating bugs since 2021 😅 <br>
 📚 I'm currently learning & building projects with React.js, Next.js, Node.js, Express.js, MongoDB, Firebase & Tailwind CSS <br>
 🔐 Working with JWT for secure authentication <br>
-📫How to reach me: www.marufsheikh802@gmail.com
-😄Pronouns: Maruf!
+📫How to reach me: www.marufsheikh802@gmail.com <br>
+😄Pronouns: Maruf!,<br>
 🎯 Goals: Become a full-stack web developer and create modern, helpful web systems that people love to use <br>
 🎲 Fun fact: I debug faster while listening to music 🎧, and sometimes I talk to my code 😎
 </p>
