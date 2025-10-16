@@ -29,47 +29,40 @@ Email Me 👉 ✉️ **www.marufsheikh802@gmail.com** For Collaboration/Project 
 <h2 align="left">I code with</h2>
 
 <p align="left">
-  <!-- Frontend -->
-  <strong>Frontend:</strong><br>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://daisyui.com/" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/saadeghi/daisyui/main/assets/daisyui-logo.svg" alt="DaisyUI" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
+  <strong>Frontend:</strong>
+  <span style="display:flex; gap:10px; align-items:center; margin-top:5px;">
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+    </a>
+  </span>
 </p>
 
-<p align="left">
-  <!-- Backend -->
-  <strong>Backend:</strong><br>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" style="margin-right:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="margin-right:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="margin-right:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  </a>
- <a href="https://jwt.io/" target="_blank" rel="noreferrer" style="margin-right:20px;">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/jwt.svg" alt="JWT" width="40" height="40"/>
-  </a>
+<p align="left" style="margin-top:35px; gap: 30px;">
+  <strong>Backend:</strong>
+  <span style="display:flex; gap:10px; align-items:center; margin-top:5px;">
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+    </a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+    </a>
+  </span>
 </p>
-
-###
-
 ###
 
 
