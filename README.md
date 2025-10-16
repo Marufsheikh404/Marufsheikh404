@@ -18,6 +18,13 @@ Email Me 👉 ✉️ **www.marufsheikh802@gmail.com** For Collaboration/Project 
 🎲 Fun fact: I debug faster while listening to music 🎧, and sometimes I talk to my code 😎
 </p>
 
+###
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 
 <h2 align="left">I code with</h2>
 
@@ -62,10 +69,6 @@ Email Me 👉 ✉️ **www.marufsheikh802@gmail.com** For Collaboration/Project 
 </p>
 
 ###
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ###
 
