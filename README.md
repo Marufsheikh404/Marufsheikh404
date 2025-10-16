@@ -78,6 +78,12 @@ Email Me 👉 ✉️ **www.marufsheikh802@gmail.com** For Collaboration/Project 
 <p align="left">
 <a href="https://linkedin.com/in/maruf sheikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maruf sheikh" height="30" width="40" /></a>
 <a href="https://instagram.com/maruf_404_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maruf_404_x" height="30" width="40" /></a>
+<a href="https://facebook.com/your.facebook.username" target="blank"><img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+       alt="your.facebook.username" 
+       height="30" 
+       width="40" />
+</a>
 </p>
 
 
